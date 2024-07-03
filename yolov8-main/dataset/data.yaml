@@ -2,7 +2,7 @@
 path: /root/autodl-tmp/3c/
 train: images/train
 val: images/val
-test: images/test
+
 
 # number of classes
 nc: 3
